@@ -1,0 +1,12 @@
+{
+  "name": "fendui/laravel-hprose",
+  "require": {
+    "php": ">=7.0.0",
+    "hprose/hprose": "v2.0.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "fendui\\": "src/"
+    }
+  }
+}
